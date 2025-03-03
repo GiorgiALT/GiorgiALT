@@ -50,7 +50,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-George_Zhorzholiani-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-zhorzholiani-916250262)
 [![Instagram](https://img.shields.io/badge/-@giorgiii.zhorzholiani-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/giorgiii.zhorzholiani)
-[![Facebook](https://img.shields.io/badge/-George_Zhorzholiani-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/16K9JPxQ6Z/)
+[![Facebook](https://img.shields.io/badge/-George_Zhorzholiani-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/Giorgii.Zhorzholiani)
 
 ---
 
